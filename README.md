@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Delyaday
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and C#
 - 📫 How to reach me qukmoonfar4567@mail.ru
 
 <!---
