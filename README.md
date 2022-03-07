@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Delyaday
+- 👋 Hi, I’m Adelya
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React and C#
 - 📫 How to reach me qukmoonfar4567@mail.ru
