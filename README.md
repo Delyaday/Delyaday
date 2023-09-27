@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend-разработчица из Калининграда</h3>
 
+Я закончила обучение в компьютерной Академии "ТОП" по направлению "Разработка программного обеспечения". Умею чиать свободно говорить на английском языке. Опыт работы составляет 2 года. 
+
 Мой стек освоенных технологий:
 -
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
