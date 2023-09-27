@@ -20,7 +20,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delyaday&hide_progress=true)
 
-[![codewars](https://www.codewars.com/users/delyaday/badges/micro)](https://www.codewars.com/users/delyaday) 
+[![codewars](https://www.codewars.com/users/Delyaday/badges/micro)](https://www.codewars.com/users/Delyaday) 
 
 <!---
 Delyaday/Delyaday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
