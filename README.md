@@ -28,9 +28,8 @@ I specialize in building clean, high-performance, and user-friendly web applicat
 
 [![codewars](https://www.codewars.com/users/Delyaday/badges/micro)](https://www.codewars.com/users/Delyaday) 
 
-Как связаться:
--
-Почта adelya99@mail.ru
+How to contact me:
+ adelya99@mail.ru
 
 <!---
 Delyaday/Delyaday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
