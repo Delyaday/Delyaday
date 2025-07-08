@@ -1,17 +1,16 @@
-<h1 align="center">Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Аделия</a> 
+<h1 align="center">Hello, my name is <a href="https://daniilshat.ru/" target="_blank">Adelia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend-разработчица из Калининграда</h3>
+<h3 align="center">Frontend Developer</h3>
 
-Я занимаюсь разработкой веб-приложений с фокусом на чистую архитектуру, производительность и удобный UI.  
-Больше 4 лет опыта: от внутренних корпоративных интерфейсов до UI-библиотек и графиков.
+I specialize in building clean, high-performance, and user-friendly web applications. With over 4 years of experience, I've worked on everything from internal enterprise dashboards to UI component libraries and interactive charts.
 
-### 🔧 Чем горжусь
-- Разработка сложных таблиц и графиков с Highcharts + RxJS  
-- Перевод проекта на Standalone Components и оптимизация загрузки  
-- Поддержка внутренней UI-библиотеки и адаптация под дизайн-систему  
-- Работа в команде, взаимодействие с backend, дизайнерами и тестировщиками
+🔧 What I’m proud of
+- Implementing complex tables and charts with Highcharts and RxJS
+- Migrating projects to Standalone Components and optimizing lazy loading
+- Maintaining and evolving an internal UI library aligned with a company’s design system
+- Collaborating closely with backend developers, designers, and QA engineers
 
-Мой стек освоенных технологий:
+🛠️ My Tech Stack
 -
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
